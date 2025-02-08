@@ -102,7 +102,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/university-library-jsm.git
+git clone https://github.com/Sachidananda-17/University-Library.git
 cd university-library-jsm
 ```
 
